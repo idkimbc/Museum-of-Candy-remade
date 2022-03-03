@@ -1,0 +1,68 @@
+body{
+    background-color: #fad0f1;
+    margin: 0;
+    font-family: "Nunito", sans-serif;
+}
+
+.container-fluid .navbar-brand{
+    color: #ea1c2c;
+    font-size: 2em;
+}
+.container-fluid .navbar-brand:hover{
+    color: #ea1c2c;
+}
+#mainnavbar .navbar-nav a{
+    color: white;
+    font-size: 1.8em;   
+}
+#mainnavbar .navbar-nav a:hover{
+    color: #ea1c2c;
+}
+#section1.container-fluid{
+    padding-left: 0;
+    padding-right: 0;
+    
+}
+span{
+    color: #ea1c2c;
+}
+p{
+    font-weight: 600;
+    font-size: larger;
+    line-height: 40px;
+    color: #cc59b3;
+}
+h2.display-6{
+    color: #ea1c2c;
+}
+section:nth-of-type(2){
+    margin-top: 96px;
+    margin-bottom: 96px;
+}
+footer #f1{
+    display: flex;
+    justify-content: flex-start;
+    margin-bottom: 48px;
+    
+}
+
+
+#f1 a{
+    color: #ea1c2c;
+    font-size: large;
+}
+#f2 a{
+    transform: scale(2,2);
+    text-decoration: none;
+    color: #f0a2df;
+}
+#f2 a:hover{
+    color: #ea1c2c;
+    transition: 0.2s;
+}
+#f2 #instagram{
+    padding-right: 30px;
+}
+#f2 #twitter{
+    padding-left: 30px;
+}
